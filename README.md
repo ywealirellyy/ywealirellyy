@@ -7,8 +7,6 @@
 
 <td>
 
- 
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ywealirellyy/ywealirellyy/main/Banner.svg" width="100%">
