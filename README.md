@@ -8,7 +8,7 @@
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/ywealirellyy/ywealirellyy/main/Banner.svg" width="360">
+<img src="https://raw.githubusercontent.com/ywealirellyy/ywealirellyy/main/Banner.svg" width="600">
 
 </td>
 
